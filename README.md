@@ -1,1 +1,1 @@
-Getting friendly with Git
+Getting friendly with Github
